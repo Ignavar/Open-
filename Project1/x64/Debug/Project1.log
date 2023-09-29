@@ -1,0 +1,9 @@
+﻿  Map.cpp
+C:\Users\Haroo\source\repos\Project1\Project1\Map.cpp(78,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Haroo\source\repos\Project1\Project1\Map.cpp(85,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Haroo\source\repos\Project1\Project1\Map.cpp(90,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Haroo\source\repos\Project1\Project1\Map.cpp(123,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Haroo\source\repos\Project1\Project1\Map.cpp(143,68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Haroo\source\repos\Project1\Project1\Map.cpp(152,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Haroo\source\repos\Project1\Project1\Map.cpp(168,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Haroo\source\repos\Project1\x64\Debug\Project1.exe

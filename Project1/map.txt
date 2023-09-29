@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.8 (12837 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="31.4545000" minlon="74.2684700" maxlat="31.4564200" maxlon="74.2720100"/>
+ <node id="301755259" visible="true" version="8" changeset="12890983" timestamp="2012-08-28T11:14:34Z" user="Maarten Deen" uid="9176" lat="31.4535323" lon="74.2709183"/>
+ <node id="301755260" visible="true" version="8" changeset="12890983" timestamp="2012-08-28T11:14:34Z" user="Maarten Deen" uid="9176" lat="31.4541018" lon="74.2709049"/>
+ <node id="301755261" visible="true" version="9" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4546897" lon="74.2708954"/>
+ <node id="301755262" visible="true" version="9" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4552759" lon="74.2709053"/>
+ <node id="303594455" visible="true" version="6" changeset="12890983" timestamp="2012-08-28T11:14:40Z" user="Maarten Deen" uid="9176" lat="31.4552621" lon="74.2729647"/>
+ <node id="303594456" visible="true" version="7" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4558718" lon="74.2709014"/>
+ <node id="303594457" visible="true" version="7" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4559679" lon="74.2708974"/>
+ <node id="303953823" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4558101" lon="74.2683452"/>
+ <node id="303953824" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4558444" lon="74.2686000"/>
+ <node id="303953983" visible="true" version="3" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4559759" lon="74.2729211"/>
+ <node id="303954447" visible="true" version="1" changeset="279518" timestamp="2008-10-12T13:22:57Z" user="Waheed" uid="46282" lat="31.4581417" lon="74.2669501"/>
+ <node id="303954449" visible="true" version="2" changeset="58630278" timestamp="2018-05-02T22:20:00Z" user="Wonderworld" uid="6907857" lat="31.4575708" lon="74.2673934"/>
+ <node id="303954450" visible="true" version="1" changeset="279518" timestamp="2008-10-12T13:22:57Z" user="Waheed" uid="46282" lat="31.4563552" lon="74.2681689"/>
+ <node id="303954451" visible="true" version="1" changeset="279518" timestamp="2008-10-12T13:22:57Z" user="Waheed" uid="46282" lat="31.4555352" lon="74.2685637"/>
+ <node id="303954452" visible="true" version="2" changeset="58630278" timestamp="2018-05-02T22:20:00Z" user="Wonderworld" uid="6907857" lat="31.4552547" lon="74.2686630"/>
+ <node id="303954453" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4546785" lon="74.2688250"/>
+ <node id="303954454" visible="true" version="1" changeset="279518" timestamp="2008-10-12T13:22:57Z" user="Waheed" uid="46282" lat="31.4535217" lon="74.2690701"/>
+ <node id="618839031" visible="true" version="1" changeset="3694702" timestamp="2010-01-23T19:07:47Z" user="Zartbitter" uid="40397" lat="31.4535453" lon="74.2729760"/>
+ <node id="653929062" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4559393" lon="74.2683801"/>
+ <node id="653929067" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4558364" lon="74.2684230"/>
+ <node id="653929109" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4558919" lon="74.2729358"/>
+ <node id="1886593186" visible="true" version="1" changeset="12890983" timestamp="2012-08-28T11:10:48Z" user="Maarten Deen" uid="9176" lat="31.4541007" lon="74.2689503"/>
+ <node id="1886593189" visible="true" version="1" changeset="12890983" timestamp="2012-08-28T11:10:48Z" user="Maarten Deen" uid="9176" lat="31.4547082" lon="74.2729675"/>
+ <node id="3302571679" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4555904" lon="74.2676572"/>
+ <node id="3302571680" visible="true" version="3" changeset="82701624" timestamp="2020-03-27T08:16:40Z" user="Rjay45" uid="10945316" lat="31.4556955" lon="74.2676094"/>
+ <node id="3666313531" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4571194" lon="74.2677046"/>
+ <node id="3666313533" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4581394" lon="74.2702034"/>
+ <node id="3666313534" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4571323" lon="74.2702088"/>
+ <node id="3666313535" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:10Z" user="yellow_car47" uid="9461095" lat="31.4559634" lon="74.2702201"/>
+ <node id="3666313536" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4565561" lon="74.2680469"/>
+ <node id="3666313537" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4565563" lon="74.2702191"/>
+ <node id="3666313543" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4547394" lon="74.2708364"/>
+ <node id="3666313544" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4557507" lon="74.2708364"/>
+ <node id="3666313545" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4557507" lon="74.2700747"/>
+ <node id="3666313546" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4555448" lon="74.2700693"/>
+ <node id="3666313547" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4555402" lon="74.2695650"/>
+ <node id="3666313548" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4551558" lon="74.2695704"/>
+ <node id="3666313549" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4551467" lon="74.2698064"/>
+ <node id="3666313550" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4547303" lon="74.2698011"/>
+ <node id="3666313551" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4551192" lon="74.2695650"/>
+ <node id="3666313552" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4551101" lon="74.2697689"/>
+ <node id="3666313553" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4547428" lon="74.2697696"/>
+ <node id="3666313554" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:30Z" user="Ashraf Chaudhary" uid="3022958" lat="31.4547428" lon="74.2695734"/>
+ <node id="5593357238" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:10Z" user="yellow_car47" uid="9461095" lat="31.4546801" lon="74.2694826"/>
+ <node id="5593357239" visible="true" version="1" changeset="58630278" timestamp="2018-05-02T22:19:59Z" user="Wonderworld" uid="6907857" lat="31.4552586" lon="74.2695093"/>
+ <node id="5593357240" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:10Z" user="yellow_car47" uid="9461095" lat="31.4558558" lon="74.2695013"/>
+ <node id="5593357241" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:10Z" user="yellow_car47" uid="9461095" lat="31.4559542" lon="74.2694946"/>
+ <node id="5593357242" visible="true" version="2" changeset="69063490" timestamp="2019-04-09T22:31:10Z" user="yellow_car47" uid="9461095" lat="31.4559599" lon="74.2690225"/>
+ <node id="5593357243" visible="true" version="1" changeset="58630278" timestamp="2018-05-02T22:19:59Z" user="Wonderworld" uid="6907857" lat="31.4565562" lon="74.2690275"/>
+ <node id="6394916797" visible="true" version="1" changeset="69063490" timestamp="2019-04-09T22:31:09Z" user="yellow_car47" uid="9461095" lat="31.4535400" lon="74.2721325"/>
+ <way id="27676562" visible="true" version="9" changeset="82701624" timestamp="2020-03-27T08:16:40Z" user="Rjay45" uid="10945316">
+  <nd ref="653929109"/>
+  <nd ref="303594456"/>
+  <nd ref="5593357240"/>
+  <nd ref="303953824"/>
+  <nd ref="653929067"/>
+  <nd ref="303953823"/>
+  <nd ref="3302571679"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Capital Avenue"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27676563" visible="true" version="10" changeset="82701624" timestamp="2020-03-27T08:16:40Z" user="Rjay45" uid="10945316">
+  <nd ref="3302571680"/>
+  <nd ref="653929062"/>
+  <nd ref="5593357242"/>
+  <nd ref="5593357241"/>
+  <nd ref="3666313535"/>
+  <nd ref="303594457"/>
+  <nd ref="303953983"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Capital Avenue"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="51244924" visible="true" version="7" changeset="82701624" timestamp="2020-03-27T08:16:40Z" user="Rjay45" uid="10945316">
+  <nd ref="303954447"/>
+  <nd ref="303954449"/>
+  <nd ref="3666313531"/>
+  <nd ref="3666313536"/>
+  <nd ref="303954450"/>
+  <nd ref="653929062"/>
+  <nd ref="653929067"/>
+  <nd ref="303954451"/>
+  <nd ref="303954452"/>
+  <nd ref="303954453"/>
+  <nd ref="1886593186"/>
+  <nd ref="303954454"/>
+  <nd ref="301755259"/>
+  <nd ref="6394916797"/>
+  <nd ref="618839031"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="178294111" visible="true" version="1" changeset="12890983" timestamp="2012-08-28T11:11:48Z" user="Maarten Deen" uid="9176">
+  <nd ref="301755262"/>
+  <nd ref="303594455"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="178294135" visible="true" version="2" changeset="58630278" timestamp="2018-05-02T22:20:00Z" user="Wonderworld" uid="6907857">
+  <nd ref="303954453"/>
+  <nd ref="5593357238"/>
+  <nd ref="301755261"/>
+  <nd ref="1886593189"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="178294210" visible="true" version="1" changeset="12890983" timestamp="2012-08-28T11:12:03Z" user="Maarten Deen" uid="9176">
+  <nd ref="301755259"/>
+  <nd ref="301755260"/>
+  <nd ref="301755261"/>
+  <nd ref="301755262"/>
+  <nd ref="303594456"/>
+  <nd ref="303594457"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="362298460" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:33Z" user="Ashraf Chaudhary" uid="3022958">
+  <nd ref="3666313533"/>
+  <nd ref="3666313534"/>
+  <nd ref="3666313537"/>
+  <nd ref="3666313535"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="362298466" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:33Z" user="Ashraf Chaudhary" uid="3022958">
+  <nd ref="3666313543"/>
+  <nd ref="3666313544"/>
+  <nd ref="3666313545"/>
+  <nd ref="3666313546"/>
+  <nd ref="3666313547"/>
+  <nd ref="3666313548"/>
+  <nd ref="3666313549"/>
+  <nd ref="3666313550"/>
+  <nd ref="3666313543"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="362298467" visible="true" version="1" changeset="32877486" timestamp="2015-07-25T19:36:33Z" user="Ashraf Chaudhary" uid="3022958">
+  <nd ref="3666313551"/>
+  <nd ref="3666313552"/>
+  <nd ref="3666313553"/>
+  <nd ref="3666313554"/>
+  <nd ref="3666313551"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="building" v="yes"/>
+  <tag k="religion" v="muslim"/>
+ </way>
+ <way id="585252169" visible="true" version="1" changeset="58630278" timestamp="2018-05-02T22:20:00Z" user="Wonderworld" uid="6907857">
+  <nd ref="303954452"/>
+  <nd ref="5593357239"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="585252170" visible="true" version="1" changeset="58630278" timestamp="2018-05-02T22:20:00Z" user="Wonderworld" uid="6907857">
+  <nd ref="5593357241"/>
+  <nd ref="5593357240"/>
+  <nd ref="5593357239"/>
+  <nd ref="5593357238"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="585252171" visible="true" version="1" changeset="58630278" timestamp="2018-05-02T22:20:00Z" user="Wonderworld" uid="6907857">
+  <nd ref="5593357243"/>
+  <nd ref="5593357242"/>
+  <tag k="highway" v="residential"/>
+ </way>
+</osm>
